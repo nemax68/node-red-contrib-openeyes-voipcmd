@@ -1,7 +1,7 @@
 Description
 ===========
 
-![OpenEyes-ClrButton-flow](https://github.com/nemax68/node-red-contrib-open-eyes-voipcmd/blob/master/images/flow.png)
+![OpenEyes-voipcmd-flow](https://github.com/nemax68/node-red-contrib-openeyes-voipcmd/blob/master/images/flow.png)
 
 A [node.js](http://nodejs.org/) A node-red library that build JSON message and send it to oesip module to
         establish or close a voip call
