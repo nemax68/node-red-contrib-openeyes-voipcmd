@@ -1,0 +1,28 @@
+{
+	"dependencies": {
+		"posix-mq": "^1.1.2"
+	},
+	"name": "openeyes-voipcmd",
+	"version": "0.0.1",
+	"description": "send voip cmd",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nemax68/node-red-contrib-openeyes-voipcmd"
+	},
+	"license": "GPL-3.0",
+	"keywords": [
+		"node-red",
+		"contrib",
+		"OpenEyes",
+		"voip"
+	],
+	"node-red": {
+		"nodes": {
+			"voipcmd": "voipcmd/voipcmd.js"
+		}
+	},
+	"author": {
+		"name": "Massimiliano Negretti",
+		"email": "massimiliano.negretti@open-eyes.it"
+	}
+}
