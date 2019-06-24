@@ -3,7 +3,7 @@
 		"posix-mq": "^1.1.2"
 	},
 	"name": "openeyes-voipcmd",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "send voip cmd",
 	"repository": {
 		"type": "git",
